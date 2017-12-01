@@ -1,2 +1,2 @@
-# JFCZ
-一个canvas小游戏
+# web
+html、css、html5、css3、JavaScript、jquery
